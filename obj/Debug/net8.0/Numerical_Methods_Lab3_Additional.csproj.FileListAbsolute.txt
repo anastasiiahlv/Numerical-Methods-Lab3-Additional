@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\univ\чисельні методи\Numerical_Methods_Lab3_Additional\bin\Debug\net8.0\Numerical_Methods_Lab3_Additional.exe
+C:\Users\USER\Desktop\univ\чисельні методи\Numerical_Methods_Lab3_Additional\bin\Debug\net8.0\Numerical_Methods_Lab3_Additional.deps.json
+C:\Users\USER\Desktop\univ\чисельні методи\Numerical_Methods_Lab3_Additional\bin\Debug\net8.0\Numerical_Methods_Lab3_Additional.runtimeconfig.json
+C:\Users\USER\Desktop\univ\чисельні методи\Numerical_Methods_Lab3_Additional\bin\Debug\net8.0\Numerical_Methods_Lab3_Additional.dll
+C:\Users\USER\Desktop\univ\чисельні методи\Numerical_Methods_Lab3_Additional\bin\Debug\net8.0\Numerical_Methods_Lab3_Additional.pdb
+C:\Users\USER\Desktop\univ\чисельні методи\Numerical_Methods_Lab3_Additional\obj\Debug\net8.0\Numerical_Methods_Lab3_Additional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\univ\чисельні методи\Numerical_Methods_Lab3_Additional\obj\Debug\net8.0\Numerical_Methods_Lab3_Additional.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\univ\чисельні методи\Numerical_Methods_Lab3_Additional\obj\Debug\net8.0\Numerical_Methods_Lab3_Additional.AssemblyInfo.cs
+C:\Users\USER\Desktop\univ\чисельні методи\Numerical_Methods_Lab3_Additional\obj\Debug\net8.0\Numerical_Methods_Lab3_Additional.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\univ\чисельні методи\Numerical_Methods_Lab3_Additional\obj\Debug\net8.0\Numerical_Methods_Lab3_Additional.dll
+C:\Users\USER\Desktop\univ\чисельні методи\Numerical_Methods_Lab3_Additional\obj\Debug\net8.0\refint\Numerical_Methods_Lab3_Additional.dll
+C:\Users\USER\Desktop\univ\чисельні методи\Numerical_Methods_Lab3_Additional\obj\Debug\net8.0\Numerical_Methods_Lab3_Additional.pdb
+C:\Users\USER\Desktop\univ\чисельні методи\Numerical_Methods_Lab3_Additional\obj\Debug\net8.0\Numerical_Methods_Lab3_Additional.genruntimeconfig.cache
+C:\Users\USER\Desktop\univ\чисельні методи\Numerical_Methods_Lab3_Additional\obj\Debug\net8.0\ref\Numerical_Methods_Lab3_Additional.dll

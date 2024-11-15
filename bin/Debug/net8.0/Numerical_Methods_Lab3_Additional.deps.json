@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Numerical_Methods_Lab3_Additional/1.0.0": {
+        "runtime": {
+          "Numerical_Methods_Lab3_Additional.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Numerical_Methods_Lab3_Additional/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
